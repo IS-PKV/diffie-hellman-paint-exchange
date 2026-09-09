@@ -1,1 +1,1 @@
-# diffie-hellman-paint-exchange
+# Diffie-Hellman-Paint-Exchange
