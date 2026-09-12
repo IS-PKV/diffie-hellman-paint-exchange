@@ -745,21 +745,11 @@ Open a pull request on GitHub.
 
 ---
 
-# 📄 License
-
-This project is intended for educational purposes.
-
-If you plan to publish the repository as an open-source project, add an appropriate license such as the MIT License.
-
 ---
 
 # 👩‍💻 Author
 
 **Preethi**
-
-B.Tech — Civil Engineering
-Minor — Computer Science
-NIT Trichy
 
 ---
 
